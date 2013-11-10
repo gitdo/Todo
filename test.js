@@ -6,3 +6,4 @@ var x = "I'm a president" // True story
 function todo() {
   console.log(x); // @todo: asdfasdff
 }
+// @todo: ALL THINGS

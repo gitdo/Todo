@@ -3,4 +3,4 @@
 
 setInterval(function () {
   alert('x');
-}, 100);
+}, 100); 

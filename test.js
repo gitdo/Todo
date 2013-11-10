@@ -1,5 +1,5 @@
 /* This is a test JS file
-// @todo: something */
+ @todo: something */
 
 var x = "I'm a president" // True story
 

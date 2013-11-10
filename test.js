@@ -4,5 +4,5 @@
 var x = "I'm a president" // True story
 
 function todo() {
-  console.log(x); // @todo: aaaaaaaaaaaaaa
+  console.log(x); // @todo: asdf
 }
